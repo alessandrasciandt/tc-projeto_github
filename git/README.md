@@ -1,2 +1,2 @@
 # tc-projeto_github
-Repositorio para atividades techCamps
+Repositorio para atividades techCamps e treinamentos relacionados ao GIT
